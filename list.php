@@ -1,0 +1,1 @@
+<a href='post/example.php'>just an example</a><br>
