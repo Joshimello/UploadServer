@@ -2,16 +2,7 @@
 Simple upload/forum system written in php
 
 # licence
-            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-                    Version 2, December 2004
-
- Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
-
- Everyone is permitted to copy and distribute verbatim or modified
- copies of this license document, and changing it is allowed as long
- as the name is changed.
-
-            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
-
-  0. You just DO WHAT THE FUCK YOU WANT TO.
+# This project is libre, and licenced under the terms of the
+# DO WHAT THE FUCK YOU WANT TO PUBLIC LICENCE, version 3.1,
+# as published by dtf on July 2019. See the COPYING file or
+# https://ph.dtf.wtf/w/wtfpl/#version-3-1 for more details.
